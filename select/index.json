@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "美しい顔 (with 礼賛)",
+  "base_artist": "土岐麻子",
+  "createdAt": "2026-01-05T07:06:42.842016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "美しい顔",
+      "artist": "Asako Toki",
+      "has_synced": true,
+      "path": "select/01_美しい顔_Asako_Toki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "美しい顔",
+      "artist": "Asako Toki",
+      "has_synced": true,
+      "path": "select/02_美しい顔_Asako_Toki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "美しい顔",
+      "artist": "土岐麻子",
+      "has_synced": false,
+      "path": "select/03_美しい顔_土岐麻子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しい顔",
+      "artist": "土岐 麻子",
+      "has_synced": false,
+      "path": "select/pl_01_美しい顔_土岐_麻子.txt"
+    }
+  ]
+}
